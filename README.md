@@ -58,6 +58,10 @@
 * [`Biggest Drawn Number`](`https://github.com/anibalfn/exercises/blob/main/imports-and-exports/biggestDrawnNumber.js`): utilizing gets() and prints(), simulate a situation where a draw is made and the biggest number in an array is the output.
 
 * [`Auxiliar Functions`](`https://github.com/anibalfn/exercises/blob/main/imports-and-exports/auxFunctions.js`): auxiliar functions to the exercise above;
+
+### [`Web Components`](`https://github.com/anibalfn/exercises/tree/main/web-components`)
+
+* Exercises utilizing web components of JavaScript.
 ---
 
 ## Introduction to TypeScript 🖋️
@@ -81,8 +85,8 @@
 ### [`Generics`](`https://github.com/anibalfn/exercises/blob/main/typescript/generics.ts`)
 
 * [`Generics`](`https://github.com/anibalfn/exercises/blob/main/typescript/generics.ts`): simple introduction to Generics in TS;
----
 
+---
 ### 🏁 [`Micro Project utilizing HTML & CSS to print a podium`](`https://github.com/anibalfn/exercises/tree/main/podium-html-w-css`) 🏁
 
 ![Podium made utilizing only HTML and CSS](https://anibalfn.github.io/Images/hackaton-html-css.png)
