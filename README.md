@@ -2,7 +2,7 @@
 
 ## Introduction to JavaScript && Programming Logic
 
-### [`Variables & Operators`](`https://github.com/anibalfn/exercises/tree/main/variables-and-operators`)
+### [`Variables & Operators`](`https://github.com/anibalfn/exercises/tree/main/variables-and-operators`) 🧮
 
 * [`IMC Calculator`](`https://github.com/anibalfn/exercises/blob/main/variables-and-operators/imc.js`): type your weight and height and receive as output your IMC and what category you fit in;
 
@@ -17,7 +17,7 @@
 * [`Student Average Calculator`](`https://github.com/anibalfn/exercises/blob/main/variables-and-operators/studentAverage.js`): input three evaluation notes, receives as output the medium and if the student was successful in the evaluations.
 ---
 
-### [`Loops & Arrays`](`https://github.com/anibalfn/exercises/blob/main/loops-and-arrays/`)
+### [`Loops & Arrays`](`https://github.com/anibalfn/exercises/blob/main/loops-and-arrays/`) ➿
 
 * [`Student Average Calculator with For Loop`](`https://github.com/anibalfn/exercises/blob/main/loops-and-arrays/averageStudentwithFor.js`): input evaluation notes, receives as output the medium of the evaluations;
 
@@ -25,7 +25,7 @@
 
 * [`Pair Numbers Identificator`](`https://github.com/anibalfn/exercises/blob/main/loops-and-arrays/pairNumbers.js`): iterate a number array and return only the pair numbers;
 ---
-### [`Functions`](`https://github.com/anibalfn/exercises/tree/main/functions`)
+### [`Functions`](`https://github.com/anibalfn/exercises/tree/main/functions`) ⏯️
 
 * [`Product Price with Functions`](`https://github.com/anibalfn/exercises/blob/main/functions/ProductPriceWithFunction.js`): input a payment code and receive the value of a product, now utilizing Functions;
 * [`Product Price with Functions v2`](`https://github.com/anibalfn/exercises/blob/main/functions/ProductPriceWithFunction2.js`): utilizing Functions, apply fees and discounts in a product value;
@@ -36,11 +36,11 @@
 
 * [`Verify Name and Age`](`https://github.com/anibalfn/exercises/blob/main/functions/verifyNameAndAge.js`): Sums the two functions above in a single one, prints in the console a phrase indicating the person's name, age and if it's in majority age.
 ---
-### [`Objects`](`https://github.com/anibalfn/exercises/tree/main/objects`)
+### [`Objects`](`https://github.com/anibalfn/exercises/tree/main/objects`) 🧩
 
 * [`Username and Age`](`https://github.com/anibalfn/exercises/blob/main/objects/userNameAndAge.js`): introduction to Objects - a simple object with user and age;
 ---
-### [`Classes`](`https://github.com/anibalfn/exercises/tree/main/classes`)
+### [`Classes`](`https://github.com/anibalfn/exercises/tree/main/classes`) 🏫
 
 * [`IMC Calculator w/ Class`](`https://github.com/anibalfn/exercises/blob/main/classes/imcWithClass.js`): Calculate your IMC, now utilizing Classes!
 
@@ -53,10 +53,38 @@
 * [`Create Person w/ Constructor`](`https://github.com/anibalfn/exercises/blob/main/classes/createPersonViaClassWithConstructor.js`): determines attributes of a person and receive as output a phrase in the console with the informations, now utilizing Constructor.
 ---
 
-### [`Imports & Exports`](`https://github.com/anibalfn/exercises/tree/main/imports-and-exports`)
+### [`Imports & Exports`](`https://github.com/anibalfn/exercises/tree/main/imports-and-exports`) 📨
 
 * [`Biggest Drawn Number`](`https://github.com/anibalfn/exercises/blob/main/imports-and-exports/biggestDrawnNumber.js`): utilizing gets() and prints(), simulate a situation where a draw is made and the biggest number in an array is the output.
 
 * [`Auxiliar Functions`](`https://github.com/anibalfn/exercises/blob/main/imports-and-exports/auxFunctions.js`): auxiliar functions to the exercise above;
+---
+
+## Introduction to TypeScript 🖋️
+
+### [`Objects`](`https://github.com/anibalfn/exercises/blob/main/typescript/objects.ts`)
+
+* [`Objects with and without predictability`](`https://github.com/anibalfn/exercises/blob/main/typescript/objects.ts`): objects now with TS!
+
+### [`Functions`](`https://github.com/anibalfn/exercises/blob/main/typescript/functions.ts`)
+
+* [`Functions w/ Types`](`https://github.com/anibalfn/exercises/blob/main/typescript/functions.ts`): functions with TypeScript;
+
+### [`Arrays & Tuplas`](`https://github.com/anibalfn/exercises/blob/main/typescript/arrays-tuplas-date.ts`)
+
+* [`Arrays & Tuplas`](`https://github.com/anibalfn/exercises/blob/main/typescript/arrays-tuplas-date.ts`): introduction to the tuplas and typing arrays;
+
+### [`Classes`](`https://github.com/anibalfn/exercises/blob/main/typescript/classes.ts`)
+
+* [`Classes and Data Modifiers`](`https://github.com/anibalfn/exercises/blob/main/typescript/classes.ts`): introduction to data modifiers: public, private and protected;
+
+### [`Generics`](`https://github.com/anibalfn/exercises/blob/main/typescript/generics.ts`)
+
+* [`Generics`](`https://github.com/anibalfn/exercises/blob/main/typescript/generics.ts`): simple introduction to Generics in TS;
+---
+
+### 🏁 [`Micro Project utilizing HTML & CSS to print a podium`](`https://github.com/anibalfn/exercises/tree/main/podium-html-w-css`) 🏁
+
+![Podium made utilizing only HTML and CSS](https://anibalfn.github.io/Images/hackaton-html-css.png)
 
 
